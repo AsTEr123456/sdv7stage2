@@ -1,0 +1,34 @@
+C:\Users\AsTEr\Desktop\games store\games store\bin\Debug\games store.exe.config
+C:\Users\AsTEr\Desktop\games store\games store\bin\Debug\games store.exe
+C:\Users\AsTEr\Desktop\games store\games store\bin\Debug\games store.pdb
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games_store.frmDetails.resources
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games_store.frmGames.resources
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games_store.frmMain.resources
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games_store.Properties.Resources.resources
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games store.csproj.GenerateResource.cache
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games store.csproj.CoreCompileInputs.cache
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games store.exe
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games store.pdb
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games_store.frmDigital.resources
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games_store.frmDisc.resources
+C:\Users\AsTEr\Desktop\games store\games store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AsTEr\Desktop\games store\games store\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games store.csproj.CopyComplete
+C:\Users\AsTEr\Desktop\games store - 副本\games store\bin\Debug\games store.exe.config
+C:\Users\AsTEr\Desktop\games store - 副本\games store\bin\Debug\games store.exe
+C:\Users\AsTEr\Desktop\games store - 副本\games store\bin\Debug\games store.pdb
+C:\Users\AsTEr\Desktop\games store - 副本\games store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AsTEr\Desktop\games store - 副本\games store\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games store.csprojAssemblyReference.cache
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games_store.frmDetails.resources
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games_store.frmDigital.resources
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games_store.frmDisc.resources
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games_store.frmGames.resources
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games_store.frmMain.resources
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games_store.Properties.Resources.resources
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games store.csproj.GenerateResource.cache
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games store.csproj.CoreCompileInputs.cache
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games store.csproj.CopyComplete
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games store.exe
+C:\Users\AsTEr\Desktop\games store - 副本\games store\obj\Debug\games store.pdb
+C:\Users\AsTEr\Desktop\games store\games store\obj\Debug\games store.csprojAssemblyReference.cache
